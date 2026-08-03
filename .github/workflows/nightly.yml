@@ -1,0 +1,29 @@
+name: Nightly ingest
+
+# Nightly job that refreshes the warehouse. Not enabled by default —
+# uncomment the schedule block to activate. Requires you to persist the
+# DuckDB file somewhere (e.g. commit it back, or push to a bucket).
+
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: "0 3 * * *"   # 03:00 UTC daily
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -e .
+      - run: python -m src.ingest.arbeitnow --db data/warehouse.duckdb
+      - run: python -m src.transform.run_sql --db data/warehouse.duckdb
+      - run: python -m src.ml.salary_model --db data/warehouse.duckdb --out data/model.pkl
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: warehouse
+          path: data/*.duckdb
+          retention-days: 7

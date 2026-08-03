@@ -1,0 +1,4255 @@
+{
+  "snapshot_date": "2026-08-02",
+  "data": [
+    {
+      "slug": "sap-werkstudent-data-analytics-(m/w/d)-0",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "SAP",
+      "location": "Munich, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/0",
+      "tags": [
+        "analytics",
+        "munich"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau. Sehr gute Deutschkenntnisse erforderlich (mind. C1).",
+      "created_at": 1785531431
+    },
+    {
+      "slug": "wayfair-werkstudent:in-data-science-1",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "Wayfair",
+      "location": "Berlin, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/1",
+      "tags": [
+        "ds/ml",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn. English is sufficient; German is a nice-to-have.",
+      "created_at": 1782766631
+    },
+    {
+      "slug": "flink-data-analyst-(werkstudent)-2",
+      "title": "Data Analyst (Werkstudent)",
+      "company_name": "Flink",
+      "location": "Stuttgart, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/2",
+      "tags": [
+        "analytics",
+        "stuttgart"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Verhandlungssicheres Deutsch in Wort und Schrift.",
+      "created_at": 1783889831
+    },
+    {
+      "slug": "wayfair-working-student---machine-learning-3",
+      "title": "Working Student - Machine Learning",
+      "company_name": "Wayfair",
+      "location": "Cologne, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/3",
+      "tags": [
+        "ds/ml",
+        "cologne"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our DS/ML team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps. Sehr gute Deutschkenntnisse erforderlich (mind. C1).",
+      "created_at": 1783803431
+    },
+    {
+      "slug": "flink-werkstudent-data-analytics-(m/w/d)-4",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "Flink",
+      "location": "Cologne, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/4",
+      "tags": [
+        "analytics",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau. English is sufficient; German is a nice-to-have. Gehalt: \u20ac58.000\u201386.000 pro Jahr",
+      "created_at": 1785358631
+    },
+    {
+      "slug": "hellofresh-analytics-engineer-(junior)-5",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "HelloFresh",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/5",
+      "tags": [
+        "data eng",
+        "berlin"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery.",
+      "created_at": 1783630631
+    },
+    {
+      "slug": "bosch-data-scientist-(m/w/d)---werkstudent-6",
+      "title": "Data Scientist (m/w/d) - Werkstudent",
+      "company_name": "Bosch",
+      "location": "Cologne, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/6",
+      "tags": [
+        "ds/ml",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, XGBoost, SQL. English is sufficient; German is a nice-to-have. Wir bieten 39k\u201368k EUR p.a.",
+      "created_at": 1784840231
+    },
+    {
+      "slug": "flink-working-student---machine-learning-7",
+      "title": "Working Student - Machine Learning",
+      "company_name": "Flink",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/7",
+      "tags": [
+        "ds/ml",
+        "frankfurt"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our DS/ML team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps. English is sufficient; German is a nice-to-have. Gehalt: \u20ac55.000\u201366.000 pro Jahr",
+      "created_at": 1785531431
+    },
+    {
+      "slug": "sap-ai-engineering-intern-8",
+      "title": "AI Engineering Intern",
+      "company_name": "SAP",
+      "location": "Leipzig, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/8",
+      "tags": [
+        "ai",
+        "leipzig"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our AI team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, RAG, LangChain. English is sufficient; German is a nice-to-have.",
+      "created_at": 1783025831
+    },
+    {
+      "slug": "flink-werkstudent-analytics-engineer-(junior)-9",
+      "title": "Werkstudent Analytics Engineer (Junior)",
+      "company_name": "Flink",
+      "location": "Stuttgart, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/9",
+      "tags": [
+        "data eng",
+        "stuttgart"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Data Eng team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery. English is sufficient; German is a nice-to-have. \u20ac24 per hour",
+      "created_at": 1783717031
+    },
+    {
+      "slug": "ionos-working-student---machine-learning-10",
+      "title": "Working Student - Machine Learning",
+      "company_name": "IONOS",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/10",
+      "tags": [
+        "ds/ml",
+        "frankfurt"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our DS/ML team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps. Wir bieten 45k\u201368k EUR p.a.",
+      "created_at": 1785358631
+    },
+    {
+      "slug": "deutsche-bahn-digital-ai-engineering-intern-11",
+      "title": "AI Engineering Intern",
+      "company_name": "Deutsche Bahn Digital",
+      "location": "Stuttgart, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/11",
+      "tags": [
+        "ai",
+        "stuttgart"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our AI team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, RAG, LangChain.",
+      "created_at": 1785704231
+    },
+    {
+      "slug": "1&1-analytics-engineer-(junior)-12",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "1&1",
+      "location": "Munich, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/12",
+      "tags": [
+        "data eng",
+        "munich"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery. Flie\u00dfende Deutschkenntnisse zwingend notwendig.",
+      "created_at": 1783198631
+    },
+    {
+      "slug": "sap-werkstudent-bi-&-reporting-13",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "SAP",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/13",
+      "tags": [
+        "analytics",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Our working language is English \u2014 no German required.",
+      "created_at": 1784062631
+    },
+    {
+      "slug": "allianz-working-student---machine-learning-14",
+      "title": "Working Student - Machine Learning",
+      "company_name": "Allianz",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/14",
+      "tags": [
+        "ds/ml",
+        "frankfurt"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our DS/ML team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps.",
+      "created_at": 1785704231
+    },
+    {
+      "slug": "zalando-data-scientist-(m/w/d)---werkstudent-15",
+      "title": "Data Scientist (m/w/d) - Werkstudent",
+      "company_name": "Zalando",
+      "location": "Leipzig, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/15",
+      "tags": [
+        "ds/ml",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, XGBoost, SQL.",
+      "created_at": 1784408231
+    },
+    {
+      "slug": "t-systems-data-analyst-(werkstudent)-16",
+      "title": "Data Analyst (Werkstudent)",
+      "company_name": "T-Systems",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/16",
+      "tags": [
+        "analytics",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Our working language is English \u2014 no German required.",
+      "created_at": 1782766631
+    },
+    {
+      "slug": "continental-working-student---machine-learning-17",
+      "title": "Working Student - Machine Learning",
+      "company_name": "Continental",
+      "location": "Hamburg, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/17",
+      "tags": [
+        "ds/ml",
+        "hamburg"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our DS/ML team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps. Deutsch auf Muttersprachenniveau.",
+      "created_at": 1782766631
+    },
+    {
+      "slug": "siemens-healthineers-werkstudent-bi-&-reporting-18",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "Siemens Healthineers",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/18",
+      "tags": [
+        "analytics",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. English is sufficient; German is a nice-to-have.",
+      "created_at": 1784408231
+    },
+    {
+      "slug": "mercedes-benz-tech-werkstudent:in-data-science-19",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "Mercedes-Benz Tech",
+      "location": "Frankfurt, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/19",
+      "tags": [
+        "ds/ml",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn. Our working language is English \u2014 no German required. Gehalt: \u20ac49.000\u201361.000 pro Jahr",
+      "created_at": 1783889831
+    },
+    {
+      "slug": "hellofresh-software-engineering-intern---data-platf-20",
+      "title": "Software Engineering Intern - Data Platform",
+      "company_name": "HelloFresh",
+      "location": "Munich, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/20",
+      "tags": [
+        "software eng",
+        "munich"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our Software Eng team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, Kafka, Docker. English is sufficient; German is a nice-to-have.",
+      "created_at": 1782593831
+    },
+    {
+      "slug": "getyourguide-data-analyst-(werkstudent)-21",
+      "title": "Data Analyst (Werkstudent)",
+      "company_name": "GetYourGuide",
+      "location": "Dresden, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/21",
+      "tags": [
+        "analytics",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Deutsch auf Muttersprachenniveau.",
+      "created_at": 1783457831
+    },
+    {
+      "slug": "delivery-hero-werkstudent-bi-&-reporting-22",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "Delivery Hero",
+      "location": "Dresden, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/22",
+      "tags": [
+        "analytics",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Deutsch auf Muttersprachenniveau.",
+      "created_at": 1785185831
+    },
+    {
+      "slug": "wayfair-data-analyst-(werkstudent)-23",
+      "title": "Data Analyst (Werkstudent)",
+      "company_name": "Wayfair",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/23",
+      "tags": [
+        "analytics",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Deutsch auf Muttersprachenniveau. Gehalt: \u20ac63.000\u201390.000 pro Jahr",
+      "created_at": 1785445031
+    },
+    {
+      "slug": "hellofresh-werkstudent:in-data-science-24",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "HelloFresh",
+      "location": "Berlin, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/24",
+      "tags": [
+        "ds/ml",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn. Deutsch auf Muttersprachenniveau.",
+      "created_at": 1784840231
+    },
+    {
+      "slug": "otto-group-werkstudent-data-analytics-(m/w/d)-25",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "Otto Group",
+      "location": "Stuttgart, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/25",
+      "tags": [
+        "analytics",
+        "stuttgart"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau. This is an English-speaking role.",
+      "created_at": 1782680231
+    },
+    {
+      "slug": "wayfair-working-student---machine-learning-26",
+      "title": "Working Student - Machine Learning",
+      "company_name": "Wayfair",
+      "location": "Dresden, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/26",
+      "tags": [
+        "ds/ml",
+        "dresden"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our DS/ML team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps. English is sufficient; German is a nice-to-have. Gehalt: \u20ac55.000\u201366.000 pro Jahr",
+      "created_at": 1782507431
+    },
+    {
+      "slug": "ionos-software-engineering-intern---data-platf-27",
+      "title": "Software Engineering Intern - Data Platform",
+      "company_name": "IONOS",
+      "location": "Dresden, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/27",
+      "tags": [
+        "software eng",
+        "dresden"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our Software Eng team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, Kafka, Docker. Verhandlungssicheres Deutsch in Wort und Schrift. Verg\u00fctung: \u20ac28/Stunde",
+      "created_at": 1783544231
+    },
+    {
+      "slug": "hellofresh-werkstudent-genai-/-llm-engineering-28",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "HelloFresh",
+      "location": "Munich, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/28",
+      "tags": [
+        "ai",
+        "munich"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch. Flie\u00dfende Deutschkenntnisse zwingend notwendig.",
+      "created_at": 1784581031
+    },
+    {
+      "slug": "sap-data-analyst-(werkstudent)-29",
+      "title": "Data Analyst (Werkstudent)",
+      "company_name": "SAP",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/29",
+      "tags": [
+        "analytics",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Flie\u00dfende Deutschkenntnisse zwingend notwendig.",
+      "created_at": 1785358631
+    },
+    {
+      "slug": "deutsche-bahn-digital-data-scientist-(m/w/d)---werkstudent-30",
+      "title": "Data Scientist (m/w/d) - Werkstudent",
+      "company_name": "Deutsche Bahn Digital",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/30",
+      "tags": [
+        "ds/ml",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, XGBoost, SQL. Verhandlungssicheres Deutsch in Wort und Schrift.",
+      "created_at": 1785013031
+    },
+    {
+      "slug": "hellofresh-werkstudent:in-data-science-31",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "HelloFresh",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/31",
+      "tags": [
+        "ds/ml",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn.",
+      "created_at": 1782334631
+    },
+    {
+      "slug": "1&1-analytics-engineer-(junior)-32",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "1&1",
+      "location": "Berlin, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/32",
+      "tags": [
+        "data eng",
+        "berlin"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery. Wir bieten 42k\u201355k EUR p.a.",
+      "created_at": 1782680231
+    },
+    {
+      "slug": "siemens-healthineers-junior-data-engineer-33",
+      "title": "Junior Data Engineer",
+      "company_name": "Siemens Healthineers",
+      "location": "Hamburg, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/33",
+      "tags": [
+        "data eng",
+        "hamburg"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Airflow, Snowflake. Flie\u00dfende Deutschkenntnisse zwingend notwendig.",
+      "created_at": 1784321831
+    },
+    {
+      "slug": "bosch-werkstudent:in-data-science-34",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "Bosch",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/34",
+      "tags": [
+        "ds/ml",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn. Verhandlungssicheres Deutsch in Wort und Schrift.",
+      "created_at": 1784321831
+    },
+    {
+      "slug": "flink-werkstudent-bi-&-reporting-35",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "Flink",
+      "location": "Hamburg, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/35",
+      "tags": [
+        "analytics",
+        "hamburg"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Sehr gute Deutschkenntnisse erforderlich (mind. C1).",
+      "created_at": 1784926631
+    },
+    {
+      "slug": "t-systems-werkstudent-business-intelligence-36",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "T-Systems",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/36",
+      "tags": [
+        "analytics",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt. Flie\u00dfende Deutschkenntnisse zwingend notwendig.",
+      "created_at": 1785531431
+    },
+    {
+      "slug": "continental-data-analyst-(werkstudent)-37",
+      "title": "Data Analyst (Werkstudent)",
+      "company_name": "Continental",
+      "location": "Leipzig, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/37",
+      "tags": [
+        "analytics",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel.",
+      "created_at": 1783457831
+    },
+    {
+      "slug": "celonis-data-analyst-(werkstudent)-38",
+      "title": "Data Analyst (Werkstudent)",
+      "company_name": "Celonis",
+      "location": "Hamburg, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/38",
+      "tags": [
+        "analytics",
+        "hamburg"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Wir bieten 56k\u201379k EUR p.a.",
+      "created_at": 1784408231
+    },
+    {
+      "slug": "trade-republic-werkstudent-working-student---machine-le-39",
+      "title": "Werkstudent Working Student - Machine Learning",
+      "company_name": "Trade Republic",
+      "location": "Cologne, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/39",
+      "tags": [
+        "ds/ml",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps. Our working language is English \u2014 no German required.",
+      "created_at": 1783198631
+    },
+    {
+      "slug": "hellofresh-junior-data-engineer-40",
+      "title": "Junior Data Engineer",
+      "company_name": "HelloFresh",
+      "location": "Leipzig, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/40",
+      "tags": [
+        "data eng",
+        "leipzig"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Airflow, Snowflake. This is an English-speaking role.",
+      "created_at": 1784235431
+    },
+    {
+      "slug": "ionos-analytics-engineer-(junior)-41",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "IONOS",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/41",
+      "tags": [
+        "data eng",
+        "leipzig"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery. Our working language is English \u2014 no German required. Wir bieten 51k\u201366k EUR p.a.",
+      "created_at": 1784321831
+    },
+    {
+      "slug": "deutsche-bahn-digital-werkstudent:in-data-science-42",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "Deutsche Bahn Digital",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/42",
+      "tags": [
+        "ds/ml",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn. Sehr gute Deutschkenntnisse erforderlich (mind. C1).",
+      "created_at": 1782593831
+    },
+    {
+      "slug": "delivery-hero-werkstudent-junior-data-engineer-43",
+      "title": "Werkstudent Junior Data Engineer",
+      "company_name": "Delivery Hero",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/43",
+      "tags": [
+        "data eng",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Data Eng team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Airflow, Snowflake.",
+      "created_at": 1784667431
+    },
+    {
+      "slug": "n26-ai-engineering-intern-44",
+      "title": "AI Engineering Intern",
+      "company_name": "N26",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/44",
+      "tags": [
+        "ai",
+        "leipzig"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our AI team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, RAG, LangChain. English is sufficient; German is a nice-to-have.",
+      "created_at": 1784062631
+    },
+    {
+      "slug": "about-you-analytics-engineer-(junior)-45",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "About You",
+      "location": "Cologne, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/45",
+      "tags": [
+        "data eng",
+        "cologne"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery. Our working language is English \u2014 no German required.",
+      "created_at": 1783630631
+    },
+    {
+      "slug": "t-systems-werkstudent-genai-/-llm-engineering-46",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "T-Systems",
+      "location": "Hamburg, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/46",
+      "tags": [
+        "ai",
+        "hamburg"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch. Flie\u00dfende Deutschkenntnisse zwingend notwendig. Salary range: \u20ac55,000 - \u20ac79,000 per year",
+      "created_at": 1783285031
+    },
+    {
+      "slug": "getyourguide-software-engineering-intern---data-platf-47",
+      "title": "Software Engineering Intern - Data Platform",
+      "company_name": "GetYourGuide",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/47",
+      "tags": [
+        "software eng",
+        "frankfurt"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our Software Eng team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, Kafka, Docker. English is sufficient; German is a nice-to-have. 25 EUR pro Stunde",
+      "created_at": 1783889831
+    },
+    {
+      "slug": "continental-data-analyst-(werkstudent)-48",
+      "title": "Data Analyst (Werkstudent)",
+      "company_name": "Continental",
+      "location": "Munich, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/48",
+      "tags": [
+        "analytics",
+        "munich"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Sehr gute Deutschkenntnisse erforderlich (mind. C1). Verg\u00fctung: \u20ac28/Stunde",
+      "created_at": 1783198631
+    },
+    {
+      "slug": "t-systems-analytics-engineer-(junior)-49",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "T-Systems",
+      "location": "Stuttgart, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/49",
+      "tags": [
+        "data eng",
+        "stuttgart"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery. Our working language is English \u2014 no German required. Salary range: \u20ac35,000 - \u20ac48,000 per year",
+      "created_at": 1784494631
+    },
+    {
+      "slug": "ionos-werkstudent-bi-&-reporting-50",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "IONOS",
+      "location": "Hamburg, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/50",
+      "tags": [
+        "analytics",
+        "hamburg"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. 22 EUR pro Stunde",
+      "created_at": 1782853031
+    },
+    {
+      "slug": "deutsche-bahn-digital-data-scientist-(m/w/d)---werkstudent-51",
+      "title": "Data Scientist (m/w/d) - Werkstudent",
+      "company_name": "Deutsche Bahn Digital",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/51",
+      "tags": [
+        "ds/ml",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, XGBoost, SQL. English is sufficient; German is a nice-to-have.",
+      "created_at": 1784840231
+    },
+    {
+      "slug": "sap-data-scientist-(m/w/d)---werkstudent-52",
+      "title": "Data Scientist (m/w/d) - Werkstudent",
+      "company_name": "SAP",
+      "location": "Dresden, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/52",
+      "tags": [
+        "ds/ml",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, XGBoost, SQL. Deutsch auf Muttersprachenniveau.",
+      "created_at": 1784235431
+    },
+    {
+      "slug": "siemens-healthineers-werkstudent:in-data-science-53",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "Siemens Healthineers",
+      "location": "Dresden, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/53",
+      "tags": [
+        "ds/ml",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn. 21 EUR pro Stunde",
+      "created_at": 1784926631
+    },
+    {
+      "slug": "about-you-werkstudent:in-data-science-54",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "About You",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/54",
+      "tags": [
+        "ds/ml",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn. Our working language is English \u2014 no German required.",
+      "created_at": 1783630631
+    },
+    {
+      "slug": "otto-group-werkstudent-genai-/-llm-engineering-55",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "Otto Group",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/55",
+      "tags": [
+        "ai",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch. Deutsch auf Muttersprachenniveau.",
+      "created_at": 1783457831
+    },
+    {
+      "slug": "hellofresh-data-scientist-(m/w/d)---werkstudent-56",
+      "title": "Data Scientist (m/w/d) - Werkstudent",
+      "company_name": "HelloFresh",
+      "location": "Frankfurt, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/56",
+      "tags": [
+        "ds/ml",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, XGBoost, SQL. English is sufficient; German is a nice-to-have.",
+      "created_at": 1783544231
+    },
+    {
+      "slug": "personio-data-scientist-(m/w/d)---werkstudent-57",
+      "title": "Data Scientist (m/w/d) - Werkstudent",
+      "company_name": "Personio",
+      "location": "Hamburg, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/57",
+      "tags": [
+        "ds/ml",
+        "hamburg"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, XGBoost, SQL.",
+      "created_at": 1785617831
+    },
+    {
+      "slug": "about-you-analytics-engineer-(junior)-58",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "About You",
+      "location": "Munich, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/58",
+      "tags": [
+        "data eng",
+        "munich"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery. Deutsch auf Muttersprachenniveau.",
+      "created_at": 1783198631
+    },
+    {
+      "slug": "otto-group-werkstudent-business-intelligence-59",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "Otto Group",
+      "location": "Leipzig, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/59",
+      "tags": [
+        "analytics",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt. Our working language is English \u2014 no German required.",
+      "created_at": 1782766631
+    },
+    {
+      "slug": "hellofresh-werkstudent-business-intelligence-60",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "HelloFresh",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/60",
+      "tags": [
+        "analytics",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt. Our working language is English \u2014 no German required.",
+      "created_at": 1784667431
+    },
+    {
+      "slug": "personio-werkstudent-genai-/-llm-engineering-61",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "Personio",
+      "location": "Berlin, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/61",
+      "tags": [
+        "ai",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch. Verhandlungssicheres Deutsch in Wort und Schrift.",
+      "created_at": 1784321831
+    },
+    {
+      "slug": "deutsche-bahn-digital-working-student---machine-learning-62",
+      "title": "Working Student - Machine Learning",
+      "company_name": "Deutsche Bahn Digital",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/62",
+      "tags": [
+        "ds/ml",
+        "leipzig"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our DS/ML team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps. Verhandlungssicheres Deutsch in Wort und Schrift.",
+      "created_at": 1785185831
+    },
+    {
+      "slug": "t-systems-junior-data-engineer-63",
+      "title": "Junior Data Engineer",
+      "company_name": "T-Systems",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/63",
+      "tags": [
+        "data eng",
+        "berlin"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Airflow, Snowflake. English is sufficient; German is a nice-to-have. Wir bieten 50k\u201363k EUR p.a.",
+      "created_at": 1784062631
+    },
+    {
+      "slug": "delivery-hero-werkstudent-genai-/-llm-engineering-64",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "Delivery Hero",
+      "location": "Munich, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/64",
+      "tags": [
+        "ai",
+        "munich"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch. English is sufficient; German is a nice-to-have.",
+      "created_at": 1785704231
+    },
+    {
+      "slug": "trade-republic-data-scientist-(m/w/d)---werkstudent-65",
+      "title": "Data Scientist (m/w/d) - Werkstudent",
+      "company_name": "Trade Republic",
+      "location": "Stuttgart, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/65",
+      "tags": [
+        "ds/ml",
+        "stuttgart"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, XGBoost, SQL.",
+      "created_at": 1784926631
+    },
+    {
+      "slug": "ionos-working-student---machine-learning-66",
+      "title": "Working Student - Machine Learning",
+      "company_name": "IONOS",
+      "location": "Stuttgart, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/66",
+      "tags": [
+        "ds/ml",
+        "stuttgart"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our DS/ML team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps.",
+      "created_at": 1783112231
+    },
+    {
+      "slug": "t-systems-ai-engineering-intern-67",
+      "title": "AI Engineering Intern",
+      "company_name": "T-Systems",
+      "location": "Dresden, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/67",
+      "tags": [
+        "ai",
+        "dresden"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our AI team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, RAG, LangChain. Wir bieten 50k\u201374k EUR p.a.",
+      "created_at": 1782334631
+    },
+    {
+      "slug": "zalando-werkstudent-business-intelligence-68",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "Zalando",
+      "location": "Stuttgart, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/68",
+      "tags": [
+        "analytics",
+        "stuttgart"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt. This is an English-speaking role.",
+      "created_at": 1783889831
+    },
+    {
+      "slug": "sap-werkstudent-genai-/-llm-engineering-69",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "SAP",
+      "location": "Cologne, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/69",
+      "tags": [
+        "ai",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch. Verhandlungssicheres Deutsch in Wort und Schrift.",
+      "created_at": 1783025831
+    },
+    {
+      "slug": "getyourguide-werkstudent-bi-&-reporting-70",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "GetYourGuide",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/70",
+      "tags": [
+        "analytics",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Verg\u00fctung: \u20ac26/Stunde",
+      "created_at": 1784062631
+    },
+    {
+      "slug": "1&1-data-scientist-(m/w/d)---werkstudent-71",
+      "title": "Data Scientist (m/w/d) - Werkstudent",
+      "company_name": "1&1",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/71",
+      "tags": [
+        "ds/ml",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, XGBoost, SQL. This is an English-speaking role.",
+      "created_at": 1783198631
+    },
+    {
+      "slug": "sap-junior-data-engineer-72",
+      "title": "Junior Data Engineer",
+      "company_name": "SAP",
+      "location": "Cologne, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/72",
+      "tags": [
+        "data eng",
+        "cologne"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Airflow, Snowflake. Verhandlungssicheres Deutsch in Wort und Schrift. Wir bieten 65k\u201383k EUR p.a.",
+      "created_at": 1782507431
+    },
+    {
+      "slug": "wayfair-werkstudent:in-data-science-73",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "Wayfair",
+      "location": "Cologne, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/73",
+      "tags": [
+        "ds/ml",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn. Verhandlungssicheres Deutsch in Wort und Schrift. Wir bieten 70k\u201389k EUR p.a.",
+      "created_at": 1785013031
+    },
+    {
+      "slug": "zalando-werkstudent:in-data-science-74",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "Zalando",
+      "location": "Dresden, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/74",
+      "tags": [
+        "ds/ml",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn. Our working language is English \u2014 no German required.",
+      "created_at": 1784321831
+    },
+    {
+      "slug": "n26-werkstudent:in-data-science-75",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "N26",
+      "location": "Dresden, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/75",
+      "tags": [
+        "ds/ml",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn. Our working language is English \u2014 no German required. Gehalt: \u20ac54.000\u201366.000 pro Jahr",
+      "created_at": 1785099431
+    },
+    {
+      "slug": "deutsche-bahn-digital-werkstudent-genai-/-llm-engineering-76",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "Deutsche Bahn Digital",
+      "location": "Stuttgart, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/76",
+      "tags": [
+        "ai",
+        "stuttgart"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch. This is an English-speaking role.",
+      "created_at": 1784062631
+    },
+    {
+      "slug": "t-systems-junior-data-engineer-77",
+      "title": "Junior Data Engineer",
+      "company_name": "T-Systems",
+      "location": "Stuttgart, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/77",
+      "tags": [
+        "data eng",
+        "stuttgart"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Airflow, Snowflake. Our working language is English \u2014 no German required.",
+      "created_at": 1784321831
+    },
+    {
+      "slug": "hellofresh-werkstudent-working-student---machine-le-78",
+      "title": "Werkstudent Working Student - Machine Learning",
+      "company_name": "HelloFresh",
+      "location": "Munich, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/78",
+      "tags": [
+        "ds/ml",
+        "munich"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps. Deutsch auf Muttersprachenniveau.",
+      "created_at": 1783112231
+    },
+    {
+      "slug": "hellofresh-werkstudent-data-analytics-(m/w/d)-79",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "HelloFresh",
+      "location": "Cologne, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/79",
+      "tags": [
+        "analytics",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau. 19 EUR pro Stunde",
+      "created_at": 1782507431
+    },
+    {
+      "slug": "trade-republic-ai-engineering-intern-80",
+      "title": "AI Engineering Intern",
+      "company_name": "Trade Republic",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/80",
+      "tags": [
+        "ai",
+        "frankfurt"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our AI team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, RAG, LangChain.",
+      "created_at": 1785358631
+    },
+    {
+      "slug": "siemens-healthineers-working-student---machine-learning-81",
+      "title": "Working Student - Machine Learning",
+      "company_name": "Siemens Healthineers",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/81",
+      "tags": [
+        "ds/ml",
+        "berlin"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our DS/ML team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps.",
+      "created_at": 1783198631
+    },
+    {
+      "slug": "otto-group-werkstudent-bi-&-reporting-82",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "Otto Group",
+      "location": "Cologne, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/82",
+      "tags": [
+        "analytics",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Our working language is English \u2014 no German required.",
+      "created_at": 1783371431
+    },
+    {
+      "slug": "sap-werkstudent-genai-/-llm-engineering-83",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "SAP",
+      "location": "Leipzig, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/83",
+      "tags": [
+        "ai",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch. English is sufficient; German is a nice-to-have.",
+      "created_at": 1785617831
+    },
+    {
+      "slug": "delivery-hero-werkstudent-genai-/-llm-engineering-84",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "Delivery Hero",
+      "location": "Cologne, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/84",
+      "tags": [
+        "ai",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch. This is an English-speaking role.",
+      "created_at": 1784753831
+    },
+    {
+      "slug": "getyourguide-analytics-engineer-(junior)-85",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "GetYourGuide",
+      "location": "Stuttgart, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/85",
+      "tags": [
+        "data eng",
+        "stuttgart"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery. This is an English-speaking role.",
+      "created_at": 1784840231
+    },
+    {
+      "slug": "getyourguide-ai-engineering-intern-86",
+      "title": "AI Engineering Intern",
+      "company_name": "GetYourGuide",
+      "location": "Leipzig, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/86",
+      "tags": [
+        "ai",
+        "leipzig"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our AI team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, RAG, LangChain.",
+      "created_at": 1783198631
+    },
+    {
+      "slug": "sap-werkstudent-business-intelligence-87",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "SAP",
+      "location": "Munich, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/87",
+      "tags": [
+        "analytics",
+        "munich"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt. English is sufficient; German is a nice-to-have.",
+      "created_at": 1785704231
+    },
+    {
+      "slug": "delivery-hero-ai-engineering-intern-88",
+      "title": "AI Engineering Intern",
+      "company_name": "Delivery Hero",
+      "location": "Dresden, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/88",
+      "tags": [
+        "ai",
+        "dresden"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our AI team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, RAG, LangChain.",
+      "created_at": 1785445031
+    },
+    {
+      "slug": "1&1-junior-data-engineer-89",
+      "title": "Junior Data Engineer",
+      "company_name": "1&1",
+      "location": "Frankfurt, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/89",
+      "tags": [
+        "data eng",
+        "frankfurt"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Airflow, Snowflake.",
+      "created_at": 1785617831
+    },
+    {
+      "slug": "celonis-werkstudent-bi-&-reporting-90",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "Celonis",
+      "location": "Frankfurt, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/90",
+      "tags": [
+        "analytics",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Our working language is English \u2014 no German required.",
+      "created_at": 1785099431
+    },
+    {
+      "slug": "bosch-werkstudent:in-data-science-91",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "Bosch",
+      "location": "Dresden, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/91",
+      "tags": [
+        "ds/ml",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn. English is sufficient; German is a nice-to-have.",
+      "created_at": 1783457831
+    },
+    {
+      "slug": "hellofresh-data-scientist-(m/w/d)---werkstudent-92",
+      "title": "Data Scientist (m/w/d) - Werkstudent",
+      "company_name": "HelloFresh",
+      "location": "Dresden, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/92",
+      "tags": [
+        "ds/ml",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, XGBoost, SQL. Verhandlungssicheres Deutsch in Wort und Schrift.",
+      "created_at": 1784235431
+    },
+    {
+      "slug": "ionos-werkstudent-business-intelligence-93",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "IONOS",
+      "location": "Stuttgart, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/93",
+      "tags": [
+        "analytics",
+        "stuttgart"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt. English is sufficient; German is a nice-to-have.",
+      "created_at": 1783025831
+    },
+    {
+      "slug": "1&1-data-scientist-(m/w/d)---werkstudent-94",
+      "title": "Data Scientist (m/w/d) - Werkstudent",
+      "company_name": "1&1",
+      "location": "Hamburg, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/94",
+      "tags": [
+        "ds/ml",
+        "hamburg"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, XGBoost, SQL.",
+      "created_at": 1783976231
+    },
+    {
+      "slug": "hellofresh-werkstudent-bi-&-reporting-95",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "HelloFresh",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/95",
+      "tags": [
+        "analytics",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Wir bieten 59k\u201381k EUR p.a.",
+      "created_at": 1784926631
+    },
+    {
+      "slug": "personio-werkstudent-data-analytics-(m/w/d)-96",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "Personio",
+      "location": "Dresden, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/96",
+      "tags": [
+        "analytics",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau.",
+      "created_at": 1783285031
+    },
+    {
+      "slug": "flink-werkstudent-software-engineering-intern--97",
+      "title": "Werkstudent Software Engineering Intern - Data Platform",
+      "company_name": "Flink",
+      "location": "Munich, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/97",
+      "tags": [
+        "software eng",
+        "munich"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Software Eng team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, Kafka, Docker.",
+      "created_at": 1785358631
+    },
+    {
+      "slug": "mercedes-benz-tech-junior-data-engineer-98",
+      "title": "Junior Data Engineer",
+      "company_name": "Mercedes-Benz Tech",
+      "location": "Dresden, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/98",
+      "tags": [
+        "data eng",
+        "dresden"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Airflow, Snowflake. Flie\u00dfende Deutschkenntnisse zwingend notwendig.",
+      "created_at": 1782766631
+    },
+    {
+      "slug": "bosch-werkstudent-business-intelligence-99",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "Bosch",
+      "location": "Stuttgart, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/99",
+      "tags": [
+        "analytics",
+        "stuttgart"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt. 25 EUR pro Stunde",
+      "created_at": 1784149031
+    },
+    {
+      "slug": "n26-werkstudent-bi-&-reporting-100",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "N26",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/100",
+      "tags": [
+        "analytics",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Our working language is English \u2014 no German required.",
+      "created_at": 1784062631
+    },
+    {
+      "slug": "mercedes-benz-tech-werkstudent-data-analytics-(m/w/d)-101",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "Mercedes-Benz Tech",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/101",
+      "tags": [
+        "analytics",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau. Our working language is English \u2014 no German required. Verg\u00fctung: \u20ac25/Stunde",
+      "created_at": 1784840231
+    },
+    {
+      "slug": "deutsche-bahn-digital-werkstudent:in-data-science-102",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "Deutsche Bahn Digital",
+      "location": "Hamburg, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/102",
+      "tags": [
+        "ds/ml",
+        "hamburg"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn. Verhandlungssicheres Deutsch in Wort und Schrift. Wir bieten 64k\u201382k EUR p.a.",
+      "created_at": 1785704231
+    },
+    {
+      "slug": "continental-werkstudent-junior-data-engineer-103",
+      "title": "Werkstudent Junior Data Engineer",
+      "company_name": "Continental",
+      "location": "Dresden, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/103",
+      "tags": [
+        "data eng",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Data Eng team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Airflow, Snowflake.",
+      "created_at": 1784062631
+    },
+    {
+      "slug": "sap-werkstudent-bi-&-reporting-104",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "SAP",
+      "location": "Stuttgart, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/104",
+      "tags": [
+        "analytics",
+        "stuttgart"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel.",
+      "created_at": 1785185831
+    },
+    {
+      "slug": "t-systems-ai-engineering-intern-105",
+      "title": "AI Engineering Intern",
+      "company_name": "T-Systems",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/105",
+      "tags": [
+        "ai",
+        "frankfurt"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our AI team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, RAG, LangChain. Our working language is English \u2014 no German required.",
+      "created_at": 1783544231
+    },
+    {
+      "slug": "t-systems-werkstudent-data-analytics-(m/w/d)-106",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "T-Systems",
+      "location": "Cologne, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/106",
+      "tags": [
+        "analytics",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau.",
+      "created_at": 1783025831
+    },
+    {
+      "slug": "deutsche-bahn-digital-data-analyst-(werkstudent)-107",
+      "title": "Data Analyst (Werkstudent)",
+      "company_name": "Deutsche Bahn Digital",
+      "location": "Cologne, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/107",
+      "tags": [
+        "analytics",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Flie\u00dfende Deutschkenntnisse zwingend notwendig.",
+      "created_at": 1785013031
+    },
+    {
+      "slug": "bosch-analytics-engineer-(junior)-108",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "Bosch",
+      "location": "Munich, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/108",
+      "tags": [
+        "data eng",
+        "munich"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery. Flie\u00dfende Deutschkenntnisse zwingend notwendig.",
+      "created_at": 1785272231
+    },
+    {
+      "slug": "about-you-werkstudent-business-intelligence-109",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "About You",
+      "location": "Cologne, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/109",
+      "tags": [
+        "analytics",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt. This is an English-speaking role.",
+      "created_at": 1784235431
+    },
+    {
+      "slug": "getyourguide-junior-data-engineer-110",
+      "title": "Junior Data Engineer",
+      "company_name": "GetYourGuide",
+      "location": "Hamburg, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/110",
+      "tags": [
+        "data eng",
+        "hamburg"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Airflow, Snowflake.",
+      "created_at": 1783198631
+    },
+    {
+      "slug": "hellofresh-working-student---machine-learning-111",
+      "title": "Working Student - Machine Learning",
+      "company_name": "HelloFresh",
+      "location": "Munich, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/111",
+      "tags": [
+        "ds/ml",
+        "munich"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our DS/ML team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps.",
+      "created_at": 1782680231
+    },
+    {
+      "slug": "otto-group-werkstudent:in-data-science-112",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "Otto Group",
+      "location": "Leipzig, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/112",
+      "tags": [
+        "ds/ml",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn. English is sufficient; German is a nice-to-have.",
+      "created_at": 1784321831
+    },
+    {
+      "slug": "allianz-analytics-engineer-(junior)-113",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "Allianz",
+      "location": "Stuttgart, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/113",
+      "tags": [
+        "data eng",
+        "stuttgart"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery. Flie\u00dfende Deutschkenntnisse zwingend notwendig.",
+      "created_at": 1784494631
+    },
+    {
+      "slug": "flink-analytics-engineer-(junior)-114",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "Flink",
+      "location": "Munich, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/114",
+      "tags": [
+        "data eng",
+        "munich"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery. Our working language is English \u2014 no German required. Salary range: \u20ac37,000 - \u20ac56,000 per year",
+      "created_at": 1785099431
+    },
+    {
+      "slug": "1&1-data-analyst-(werkstudent)-115",
+      "title": "Data Analyst (Werkstudent)",
+      "company_name": "1&1",
+      "location": "Munich, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/115",
+      "tags": [
+        "analytics",
+        "munich"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. English is sufficient; German is a nice-to-have.",
+      "created_at": 1782766631
+    },
+    {
+      "slug": "personio-werkstudent-genai-/-llm-engineering-116",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "Personio",
+      "location": "Stuttgart, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/116",
+      "tags": [
+        "ai",
+        "stuttgart"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch.",
+      "created_at": 1784235431
+    },
+    {
+      "slug": "allianz-werkstudent-bi-&-reporting-117",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "Allianz",
+      "location": "Berlin, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/117",
+      "tags": [
+        "analytics",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Flie\u00dfende Deutschkenntnisse zwingend notwendig. Salary range: \u20ac69,000 - \u20ac99,000 per year",
+      "created_at": 1785445031
+    },
+    {
+      "slug": "wayfair-junior-data-engineer-118",
+      "title": "Junior Data Engineer",
+      "company_name": "Wayfair",
+      "location": "Stuttgart, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/118",
+      "tags": [
+        "data eng",
+        "stuttgart"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Airflow, Snowflake. Wir bieten 48k\u201378k EUR p.a.",
+      "created_at": 1782421031
+    },
+    {
+      "slug": "mercedes-benz-tech-werkstudent-data-analytics-(m/w/d)-119",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "Mercedes-Benz Tech",
+      "location": "Berlin, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/119",
+      "tags": [
+        "analytics",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau. Our working language is English \u2014 no German required.",
+      "created_at": 1782680231
+    },
+    {
+      "slug": "wayfair-werkstudent-genai-/-llm-engineering-120",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "Wayfair",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/120",
+      "tags": [
+        "ai",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch.",
+      "created_at": 1782421031
+    },
+    {
+      "slug": "personio-junior-data-engineer-121",
+      "title": "Junior Data Engineer",
+      "company_name": "Personio",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/121",
+      "tags": [
+        "data eng",
+        "berlin"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Airflow, Snowflake. Gehalt: \u20ac36.000\u201350.000 pro Jahr",
+      "created_at": 1783803431
+    },
+    {
+      "slug": "mercedes-benz-tech-werkstudent-genai-/-llm-engineering-122",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "Mercedes-Benz Tech",
+      "location": "Frankfurt, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/122",
+      "tags": [
+        "ai",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch. Deutsch auf Muttersprachenniveau.",
+      "created_at": 1785358631
+    },
+    {
+      "slug": "allianz-data-scientist-(m/w/d)---werkstudent-123",
+      "title": "Data Scientist (m/w/d) - Werkstudent",
+      "company_name": "Allianz",
+      "location": "Dresden, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/123",
+      "tags": [
+        "ds/ml",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, XGBoost, SQL. English is sufficient; German is a nice-to-have. Salary range: \u20ac68,000 - \u20ac87,000 per year",
+      "created_at": 1785617831
+    },
+    {
+      "slug": "otto-group-data-scientist-(m/w/d)---werkstudent-124",
+      "title": "Data Scientist (m/w/d) - Werkstudent",
+      "company_name": "Otto Group",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/124",
+      "tags": [
+        "ds/ml",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, XGBoost, SQL. This is an English-speaking role. Verg\u00fctung: \u20ac24/Stunde",
+      "created_at": 1785358631
+    },
+    {
+      "slug": "deutsche-bahn-digital-junior-data-engineer-125",
+      "title": "Junior Data Engineer",
+      "company_name": "Deutsche Bahn Digital",
+      "location": "Hamburg, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/125",
+      "tags": [
+        "data eng",
+        "hamburg"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Airflow, Snowflake. Flie\u00dfende Deutschkenntnisse zwingend notwendig.",
+      "created_at": 1782421031
+    },
+    {
+      "slug": "trade-republic-werkstudent:in-data-science-126",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "Trade Republic",
+      "location": "Stuttgart, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/126",
+      "tags": [
+        "ds/ml",
+        "stuttgart"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn.",
+      "created_at": 1784581031
+    },
+    {
+      "slug": "hellofresh-data-scientist-(m/w/d)---werkstudent-127",
+      "title": "Data Scientist (m/w/d) - Werkstudent",
+      "company_name": "HelloFresh",
+      "location": "Stuttgart, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/127",
+      "tags": [
+        "ds/ml",
+        "stuttgart"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, XGBoost, SQL. English is sufficient; German is a nice-to-have. \u20ac25 per hour",
+      "created_at": 1783717031
+    },
+    {
+      "slug": "getyourguide-analytics-engineer-(junior)-128",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "GetYourGuide",
+      "location": "Hamburg, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/128",
+      "tags": [
+        "data eng",
+        "hamburg"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery. Sehr gute Deutschkenntnisse erforderlich (mind. C1).",
+      "created_at": 1783717031
+    },
+    {
+      "slug": "delivery-hero-software-engineering-intern---data-platf-129",
+      "title": "Software Engineering Intern - Data Platform",
+      "company_name": "Delivery Hero",
+      "location": "Hamburg, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/129",
+      "tags": [
+        "software eng",
+        "hamburg"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our Software Eng team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, Kafka, Docker. Sehr gute Deutschkenntnisse erforderlich (mind. C1).",
+      "created_at": 1783371431
+    },
+    {
+      "slug": "deutsche-bahn-digital-werkstudent-junior-data-engineer-130",
+      "title": "Werkstudent Junior Data Engineer",
+      "company_name": "Deutsche Bahn Digital",
+      "location": "Berlin, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/130",
+      "tags": [
+        "data eng",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Data Eng team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Airflow, Snowflake. Our working language is English \u2014 no German required.",
+      "created_at": 1784494631
+    },
+    {
+      "slug": "1&1-werkstudent-business-intelligence-131",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "1&1",
+      "location": "Munich, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/131",
+      "tags": [
+        "analytics",
+        "munich"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt. This is an English-speaking role.",
+      "created_at": 1782334631
+    },
+    {
+      "slug": "continental-werkstudent-genai-/-llm-engineering-132",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "Continental",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/132",
+      "tags": [
+        "ai",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch. Flie\u00dfende Deutschkenntnisse zwingend notwendig.",
+      "created_at": 1783803431
+    },
+    {
+      "slug": "personio-working-student---machine-learning-133",
+      "title": "Working Student - Machine Learning",
+      "company_name": "Personio",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/133",
+      "tags": [
+        "ds/ml",
+        "berlin"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our DS/ML team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps. Sehr gute Deutschkenntnisse erforderlich (mind. C1). Salary range: \u20ac68,000 - \u20ac84,000 per year",
+      "created_at": 1783457831
+    },
+    {
+      "slug": "celonis-werkstudent-business-intelligence-134",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "Celonis",
+      "location": "Dresden, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/134",
+      "tags": [
+        "analytics",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt.",
+      "created_at": 1785272231
+    },
+    {
+      "slug": "celonis-werkstudent-working-student---machine-le-135",
+      "title": "Werkstudent Working Student - Machine Learning",
+      "company_name": "Celonis",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/135",
+      "tags": [
+        "ds/ml",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps. Deutsch auf Muttersprachenniveau.",
+      "created_at": 1783025831
+    },
+    {
+      "slug": "sap-ai-engineering-intern-136",
+      "title": "AI Engineering Intern",
+      "company_name": "SAP",
+      "location": "Dresden, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/136",
+      "tags": [
+        "ai",
+        "dresden"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our AI team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, RAG, LangChain. Sehr gute Deutschkenntnisse erforderlich (mind. C1). Wir bieten 66k\u201392k EUR p.a.",
+      "created_at": 1784062631
+    },
+    {
+      "slug": "otto-group-data-analyst-(werkstudent)-137",
+      "title": "Data Analyst (Werkstudent)",
+      "company_name": "Otto Group",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/137",
+      "tags": [
+        "analytics",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Verhandlungssicheres Deutsch in Wort und Schrift.",
+      "created_at": 1784321831
+    },
+    {
+      "slug": "trade-republic-werkstudent-business-intelligence-138",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "Trade Republic",
+      "location": "Cologne, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/138",
+      "tags": [
+        "analytics",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt. Deutsch auf Muttersprachenniveau.",
+      "created_at": 1784494631
+    },
+    {
+      "slug": "otto-group-werkstudent:in-data-science-139",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "Otto Group",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/139",
+      "tags": [
+        "ds/ml",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn. Sehr gute Deutschkenntnisse erforderlich (mind. C1).",
+      "created_at": 1782593831
+    },
+    {
+      "slug": "otto-group-werkstudent-genai-/-llm-engineering-140",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "Otto Group",
+      "location": "Stuttgart, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/140",
+      "tags": [
+        "ai",
+        "stuttgart"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch. Sehr gute Deutschkenntnisse erforderlich (mind. C1).",
+      "created_at": 1784840231
+    },
+    {
+      "slug": "allianz-werkstudent-bi-&-reporting-141",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "Allianz",
+      "location": "Dresden, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/141",
+      "tags": [
+        "analytics",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Deutsch auf Muttersprachenniveau.",
+      "created_at": 1783544231
+    },
+    {
+      "slug": "mercedes-benz-tech-werkstudent-bi-&-reporting-142",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "Mercedes-Benz Tech",
+      "location": "Cologne, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/142",
+      "tags": [
+        "analytics",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Sehr gute Deutschkenntnisse erforderlich (mind. C1).",
+      "created_at": 1784667431
+    },
+    {
+      "slug": "bosch-werkstudent-business-intelligence-143",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "Bosch",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/143",
+      "tags": [
+        "analytics",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt. Verhandlungssicheres Deutsch in Wort und Schrift. 27 EUR pro Stunde",
+      "created_at": 1785358631
+    },
+    {
+      "slug": "getyourguide-analytics-engineer-(junior)-144",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "GetYourGuide",
+      "location": "Hamburg, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/144",
+      "tags": [
+        "data eng",
+        "hamburg"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery. English is sufficient; German is a nice-to-have.",
+      "created_at": 1782593831
+    },
+    {
+      "slug": "mercedes-benz-tech-werkstudent-analytics-engineer-(junior)-145",
+      "title": "Werkstudent Analytics Engineer (Junior)",
+      "company_name": "Mercedes-Benz Tech",
+      "location": "Leipzig, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/145",
+      "tags": [
+        "data eng",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Data Eng team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery. This is an English-speaking role.",
+      "created_at": 1782507431
+    },
+    {
+      "slug": "ionos-werkstudent-business-intelligence-146",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "IONOS",
+      "location": "Berlin, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/146",
+      "tags": [
+        "analytics",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt. Flie\u00dfende Deutschkenntnisse zwingend notwendig.",
+      "created_at": 1785358631
+    },
+    {
+      "slug": "deutsche-bahn-digital-werkstudent-genai-/-llm-engineering-147",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "Deutsche Bahn Digital",
+      "location": "Munich, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/147",
+      "tags": [
+        "ai",
+        "munich"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch. English is sufficient; German is a nice-to-have.",
+      "created_at": 1783285031
+    },
+    {
+      "slug": "deutsche-bahn-digital-werkstudent-business-intelligence-148",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "Deutsche Bahn Digital",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/148",
+      "tags": [
+        "analytics",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt. Sehr gute Deutschkenntnisse erforderlich (mind. C1).",
+      "created_at": 1783889831
+    },
+    {
+      "slug": "bosch-software-engineering-intern---data-platf-149",
+      "title": "Software Engineering Intern - Data Platform",
+      "company_name": "Bosch",
+      "location": "Munich, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/149",
+      "tags": [
+        "software eng",
+        "munich"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our Software Eng team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, Kafka, Docker. This is an English-speaking role.",
+      "created_at": 1782334631
+    },
+    {
+      "slug": "allianz-werkstudent-business-intelligence-150",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "Allianz",
+      "location": "Hamburg, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/150",
+      "tags": [
+        "analytics",
+        "hamburg"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt.",
+      "created_at": 1785445031
+    },
+    {
+      "slug": "mercedes-benz-tech-werkstudent:in-data-science-151",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "Mercedes-Benz Tech",
+      "location": "Leipzig, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/151",
+      "tags": [
+        "ds/ml",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn. Verhandlungssicheres Deutsch in Wort und Schrift.",
+      "created_at": 1782507431
+    },
+    {
+      "slug": "siemens-healthineers-werkstudent-business-intelligence-152",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "Siemens Healthineers",
+      "location": "Hamburg, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/152",
+      "tags": [
+        "analytics",
+        "hamburg"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt. English is sufficient; German is a nice-to-have.",
+      "created_at": 1785272231
+    },
+    {
+      "slug": "otto-group-software-engineering-intern---data-platf-153",
+      "title": "Software Engineering Intern - Data Platform",
+      "company_name": "Otto Group",
+      "location": "Cologne, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/153",
+      "tags": [
+        "software eng",
+        "cologne"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our Software Eng team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, Kafka, Docker. Sehr gute Deutschkenntnisse erforderlich (mind. C1).",
+      "created_at": 1783371431
+    },
+    {
+      "slug": "allianz-werkstudent-data-analytics-(m/w/d)-154",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "Allianz",
+      "location": "Leipzig, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/154",
+      "tags": [
+        "analytics",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau. Deutsch auf Muttersprachenniveau. Salary range: \u20ac44,000 - \u20ac56,000 per year",
+      "created_at": 1785185831
+    },
+    {
+      "slug": "mercedes-benz-tech-analytics-engineer-(junior)-155",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "Mercedes-Benz Tech",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/155",
+      "tags": [
+        "data eng",
+        "berlin"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery. Our working language is English \u2014 no German required. Gehalt: \u20ac45.000\u201369.000 pro Jahr",
+      "created_at": 1783457831
+    },
+    {
+      "slug": "hellofresh-analytics-engineer-(junior)-156",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "HelloFresh",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/156",
+      "tags": [
+        "data eng",
+        "leipzig"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery.",
+      "created_at": 1784494631
+    },
+    {
+      "slug": "getyourguide-werkstudent-junior-data-engineer-157",
+      "title": "Werkstudent Junior Data Engineer",
+      "company_name": "GetYourGuide",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/157",
+      "tags": [
+        "data eng",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Data Eng team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Airflow, Snowflake. English is sufficient; German is a nice-to-have.",
+      "created_at": 1783198631
+    },
+    {
+      "slug": "ionos-ai-engineering-intern-158",
+      "title": "AI Engineering Intern",
+      "company_name": "IONOS",
+      "location": "Cologne, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/158",
+      "tags": [
+        "ai",
+        "cologne"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our AI team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, RAG, LangChain.",
+      "created_at": 1785013031
+    },
+    {
+      "slug": "bosch-werkstudent-data-analytics-(m/w/d)-159",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "Bosch",
+      "location": "Cologne, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/159",
+      "tags": [
+        "analytics",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau.",
+      "created_at": 1782853031
+    },
+    {
+      "slug": "n26-junior-data-engineer-160",
+      "title": "Junior Data Engineer",
+      "company_name": "N26",
+      "location": "Munich, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/160",
+      "tags": [
+        "data eng",
+        "munich"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Airflow, Snowflake. Gehalt: \u20ac62.000\u201374.000 pro Jahr",
+      "created_at": 1783285031
+    },
+    {
+      "slug": "about-you-werkstudent-data-analytics-(m/w/d)-161",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "About You",
+      "location": "Leipzig, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/161",
+      "tags": [
+        "analytics",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau. Sehr gute Deutschkenntnisse erforderlich (mind. C1).",
+      "created_at": 1785617831
+    },
+    {
+      "slug": "bosch-werkstudent:in-data-science-162",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "Bosch",
+      "location": "Leipzig, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/162",
+      "tags": [
+        "ds/ml",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn. Deutsch auf Muttersprachenniveau.",
+      "created_at": 1785013031
+    },
+    {
+      "slug": "deutsche-bahn-digital-data-scientist-(m/w/d)---werkstudent-163",
+      "title": "Data Scientist (m/w/d) - Werkstudent",
+      "company_name": "Deutsche Bahn Digital",
+      "location": "Dresden, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/163",
+      "tags": [
+        "ds/ml",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, XGBoost, SQL. Verhandlungssicheres Deutsch in Wort und Schrift.",
+      "created_at": 1782421031
+    },
+    {
+      "slug": "siemens-healthineers-werkstudent:in-data-science-164",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "Siemens Healthineers",
+      "location": "Stuttgart, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/164",
+      "tags": [
+        "ds/ml",
+        "stuttgart"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn. Deutsch auf Muttersprachenniveau. Wir bieten 66k\u201395k EUR p.a.",
+      "created_at": 1785617831
+    },
+    {
+      "slug": "personio-werkstudent-bi-&-reporting-165",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "Personio",
+      "location": "Frankfurt, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/165",
+      "tags": [
+        "analytics",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. English is sufficient; German is a nice-to-have.",
+      "created_at": 1785272231
+    },
+    {
+      "slug": "ionos-werkstudent:in-data-science-166",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "IONOS",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/166",
+      "tags": [
+        "ds/ml",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn. Our working language is English \u2014 no German required.",
+      "created_at": 1783112231
+    },
+    {
+      "slug": "otto-group-analytics-engineer-(junior)-167",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "Otto Group",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/167",
+      "tags": [
+        "data eng",
+        "berlin"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery. Sehr gute Deutschkenntnisse erforderlich (mind. C1).",
+      "created_at": 1782248231
+    },
+    {
+      "slug": "mercedes-benz-tech-werkstudent-genai-/-llm-engineering-168",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "Mercedes-Benz Tech",
+      "location": "Munich, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/168",
+      "tags": [
+        "ai",
+        "munich"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch. Verhandlungssicheres Deutsch in Wort und Schrift.",
+      "created_at": 1783198631
+    },
+    {
+      "slug": "celonis-werkstudent-analytics-engineer-(junior)-169",
+      "title": "Werkstudent Analytics Engineer (Junior)",
+      "company_name": "Celonis",
+      "location": "Dresden, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/169",
+      "tags": [
+        "data eng",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Data Eng team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery.",
+      "created_at": 1784149031
+    },
+    {
+      "slug": "wayfair-werkstudent-data-analytics-(m/w/d)-170",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "Wayfair",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/170",
+      "tags": [
+        "analytics",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau. Deutsch auf Muttersprachenniveau.",
+      "created_at": 1782766631
+    },
+    {
+      "slug": "delivery-hero-werkstudent-junior-data-engineer-171",
+      "title": "Werkstudent Junior Data Engineer",
+      "company_name": "Delivery Hero",
+      "location": "Dresden, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/171",
+      "tags": [
+        "data eng",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Data Eng team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Airflow, Snowflake. Our working language is English \u2014 no German required.",
+      "created_at": 1783889831
+    },
+    {
+      "slug": "allianz-werkstudent:in-data-science-172",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "Allianz",
+      "location": "Cologne, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/172",
+      "tags": [
+        "ds/ml",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn. This is an English-speaking role.",
+      "created_at": 1784753831
+    },
+    {
+      "slug": "getyourguide-werkstudent-bi-&-reporting-173",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "GetYourGuide",
+      "location": "Dresden, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/173",
+      "tags": [
+        "analytics",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Sehr gute Deutschkenntnisse erforderlich (mind. C1).",
+      "created_at": 1785272231
+    },
+    {
+      "slug": "celonis-werkstudent-genai-/-llm-engineering-174",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "Celonis",
+      "location": "Stuttgart, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/174",
+      "tags": [
+        "ai",
+        "stuttgart"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch. Flie\u00dfende Deutschkenntnisse zwingend notwendig.",
+      "created_at": 1782421031
+    },
+    {
+      "slug": "flink-werkstudent-working-student---machine-le-175",
+      "title": "Werkstudent Working Student - Machine Learning",
+      "company_name": "Flink",
+      "location": "Stuttgart, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/175",
+      "tags": [
+        "ds/ml",
+        "stuttgart"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps.",
+      "created_at": 1783371431
+    },
+    {
+      "slug": "delivery-hero-analytics-engineer-(junior)-176",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "Delivery Hero",
+      "location": "Cologne, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/176",
+      "tags": [
+        "data eng",
+        "cologne"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery. English is sufficient; German is a nice-to-have.",
+      "created_at": 1785617831
+    },
+    {
+      "slug": "continental-werkstudent-genai-/-llm-engineering-177",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "Continental",
+      "location": "Hamburg, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/177",
+      "tags": [
+        "ai",
+        "hamburg"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch. Flie\u00dfende Deutschkenntnisse zwingend notwendig.",
+      "created_at": 1782593831
+    },
+    {
+      "slug": "personio-werkstudent-genai-/-llm-engineering-178",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "Personio",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/178",
+      "tags": [
+        "ai",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch. Our working language is English \u2014 no German required.",
+      "created_at": 1782853031
+    },
+    {
+      "slug": "mercedes-benz-tech-ai-engineering-intern-179",
+      "title": "AI Engineering Intern",
+      "company_name": "Mercedes-Benz Tech",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/179",
+      "tags": [
+        "ai",
+        "leipzig"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our AI team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, RAG, LangChain. Verhandlungssicheres Deutsch in Wort und Schrift.",
+      "created_at": 1783630631
+    },
+    {
+      "slug": "sap-junior-data-engineer-180",
+      "title": "Junior Data Engineer",
+      "company_name": "SAP",
+      "location": "Munich, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/180",
+      "tags": [
+        "data eng",
+        "munich"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Airflow, Snowflake. English is sufficient; German is a nice-to-have.",
+      "created_at": 1783025831
+    },
+    {
+      "slug": "personio-werkstudent:in-data-science-181",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "Personio",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/181",
+      "tags": [
+        "ds/ml",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn.",
+      "created_at": 1785272231
+    },
+    {
+      "slug": "allianz-analytics-engineer-(junior)-182",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "Allianz",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/182",
+      "tags": [
+        "data eng",
+        "leipzig"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery. Flie\u00dfende Deutschkenntnisse zwingend notwendig.",
+      "created_at": 1782248231
+    },
+    {
+      "slug": "ionos-werkstudent-business-intelligence-183",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "IONOS",
+      "location": "Hamburg, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/183",
+      "tags": [
+        "analytics",
+        "hamburg"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt. 20 EUR pro Stunde",
+      "created_at": 1782593831
+    },
+    {
+      "slug": "1&1-data-scientist-(m/w/d)---werkstudent-184",
+      "title": "Data Scientist (m/w/d) - Werkstudent",
+      "company_name": "1&1",
+      "location": "Leipzig, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/184",
+      "tags": [
+        "ds/ml",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, XGBoost, SQL. Deutsch auf Muttersprachenniveau.",
+      "created_at": 1783112231
+    },
+    {
+      "slug": "t-systems-ai-engineering-intern-185",
+      "title": "AI Engineering Intern",
+      "company_name": "T-Systems",
+      "location": "Stuttgart, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/185",
+      "tags": [
+        "ai",
+        "stuttgart"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our AI team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, RAG, LangChain. This is an English-speaking role.",
+      "created_at": 1782853031
+    },
+    {
+      "slug": "1&1-werkstudent-working-student---machine-le-186",
+      "title": "Werkstudent Working Student - Machine Learning",
+      "company_name": "1&1",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/186",
+      "tags": [
+        "ds/ml",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps.",
+      "created_at": 1785445031
+    },
+    {
+      "slug": "personio-werkstudent-software-engineering-intern--187",
+      "title": "Werkstudent Software Engineering Intern - Data Platform",
+      "company_name": "Personio",
+      "location": "Munich, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/187",
+      "tags": [
+        "software eng",
+        "munich"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Software Eng team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, Kafka, Docker. Gehalt: \u20ac68.000\u201387.000 pro Jahr",
+      "created_at": 1784321831
+    },
+    {
+      "slug": "1&1-analytics-engineer-(junior)-188",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "1&1",
+      "location": "Frankfurt, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/188",
+      "tags": [
+        "data eng",
+        "frankfurt"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery. Our working language is English \u2014 no German required.",
+      "created_at": 1784840231
+    },
+    {
+      "slug": "continental-working-student---machine-learning-189",
+      "title": "Working Student - Machine Learning",
+      "company_name": "Continental",
+      "location": "Hamburg, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/189",
+      "tags": [
+        "ds/ml",
+        "hamburg"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our DS/ML team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps. Sehr gute Deutschkenntnisse erforderlich (mind. C1).",
+      "created_at": 1785617831
+    },
+    {
+      "slug": "bosch-werkstudent-data-analytics-(m/w/d)-190",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "Bosch",
+      "location": "Munich, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/190",
+      "tags": [
+        "analytics",
+        "munich"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau. Deutsch auf Muttersprachenniveau.",
+      "created_at": 1785617831
+    },
+    {
+      "slug": "1&1-analytics-engineer-(junior)-191",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "1&1",
+      "location": "Dresden, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/191",
+      "tags": [
+        "data eng",
+        "dresden"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery. English is sufficient; German is a nice-to-have.",
+      "created_at": 1783198631
+    },
+    {
+      "slug": "delivery-hero-werkstudent-bi-&-reporting-192",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "Delivery Hero",
+      "location": "Munich, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/192",
+      "tags": [
+        "analytics",
+        "munich"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. This is an English-speaking role.",
+      "created_at": 1783976231
+    },
+    {
+      "slug": "allianz-werkstudent-bi-&-reporting-193",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "Allianz",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/193",
+      "tags": [
+        "analytics",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. English is sufficient; German is a nice-to-have. \u20ac16 per hour",
+      "created_at": 1783285031
+    },
+    {
+      "slug": "trade-republic-working-student---machine-learning-194",
+      "title": "Working Student - Machine Learning",
+      "company_name": "Trade Republic",
+      "location": "Frankfurt, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/194",
+      "tags": [
+        "ds/ml",
+        "frankfurt"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our DS/ML team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps.",
+      "created_at": 1784840231
+    },
+    {
+      "slug": "mercedes-benz-tech-werkstudent-genai-/-llm-engineering-195",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "Mercedes-Benz Tech",
+      "location": "Leipzig, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/195",
+      "tags": [
+        "ai",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch.",
+      "created_at": 1784062631
+    },
+    {
+      "slug": "n26-werkstudent-data-analytics-(m/w/d)-196",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "N26",
+      "location": "Dresden, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/196",
+      "tags": [
+        "analytics",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau. \u20ac15 per hour",
+      "created_at": 1783025831
+    },
+    {
+      "slug": "1&1-werkstudent-junior-data-engineer-197",
+      "title": "Werkstudent Junior Data Engineer",
+      "company_name": "1&1",
+      "location": "Dresden, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/197",
+      "tags": [
+        "data eng",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Data Eng team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Airflow, Snowflake. Flie\u00dfende Deutschkenntnisse zwingend notwendig.",
+      "created_at": 1783544231
+    },
+    {
+      "slug": "otto-group-werkstudent-data-analytics-(m/w/d)-198",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "Otto Group",
+      "location": "Leipzig, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/198",
+      "tags": [
+        "analytics",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau. This is an English-speaking role. 27 EUR pro Stunde",
+      "created_at": 1784235431
+    },
+    {
+      "slug": "trade-republic-working-student---machine-learning-199",
+      "title": "Working Student - Machine Learning",
+      "company_name": "Trade Republic",
+      "location": "Munich, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/199",
+      "tags": [
+        "ds/ml",
+        "munich"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our DS/ML team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps. Flie\u00dfende Deutschkenntnisse zwingend notwendig.",
+      "created_at": 1784667431
+    },
+    {
+      "slug": "delivery-hero-werkstudent-software-engineering-intern--200",
+      "title": "Werkstudent Software Engineering Intern - Data Platform",
+      "company_name": "Delivery Hero",
+      "location": "Stuttgart, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/200",
+      "tags": [
+        "software eng",
+        "stuttgart"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Software Eng team in Stuttgart.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, Kafka, Docker. Deutsch auf Muttersprachenniveau.",
+      "created_at": 1784926631
+    },
+    {
+      "slug": "deutsche-bahn-digital-werkstudent-business-intelligence-201",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "Deutsche Bahn Digital",
+      "location": "Hamburg, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/201",
+      "tags": [
+        "analytics",
+        "hamburg"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt. This is an English-speaking role.",
+      "created_at": 1782939431
+    },
+    {
+      "slug": "t-systems-werkstudent-bi-&-reporting-202",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "T-Systems",
+      "location": "Dresden, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/202",
+      "tags": [
+        "analytics",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. English is sufficient; German is a nice-to-have. 19 EUR pro Stunde",
+      "created_at": 1782248231
+    },
+    {
+      "slug": "getyourguide-werkstudent-genai-/-llm-engineering-203",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "GetYourGuide",
+      "location": "Berlin, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/203",
+      "tags": [
+        "ai",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch.",
+      "created_at": 1784494631
+    },
+    {
+      "slug": "getyourguide-werkstudent-genai-/-llm-engineering-204",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "GetYourGuide",
+      "location": "Berlin, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/204",
+      "tags": [
+        "ai",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch. This is an English-speaking role. Wir bieten 37k\u201365k EUR p.a.",
+      "created_at": 1785099431
+    },
+    {
+      "slug": "flink-werkstudent-data-analytics-(m/w/d)-205",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "Flink",
+      "location": "Frankfurt, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/205",
+      "tags": [
+        "analytics",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau. This is an English-speaking role.",
+      "created_at": 1782334631
+    },
+    {
+      "slug": "delivery-hero-werkstudent-bi-&-reporting-206",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "Delivery Hero",
+      "location": "Dresden, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/206",
+      "tags": [
+        "analytics",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. English is sufficient; German is a nice-to-have.",
+      "created_at": 1783630631
+    },
+    {
+      "slug": "flink-working-student---machine-learning-207",
+      "title": "Working Student - Machine Learning",
+      "company_name": "Flink",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/207",
+      "tags": [
+        "ds/ml",
+        "leipzig"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our DS/ML team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps. English is sufficient; German is a nice-to-have.",
+      "created_at": 1784321831
+    },
+    {
+      "slug": "hellofresh-data-analyst-(werkstudent)-208",
+      "title": "Data Analyst (Werkstudent)",
+      "company_name": "HelloFresh",
+      "location": "Dresden, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/208",
+      "tags": [
+        "analytics",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel.",
+      "created_at": 1784149031
+    },
+    {
+      "slug": "getyourguide-werkstudent-bi-&-reporting-209",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "GetYourGuide",
+      "location": "Frankfurt, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/209",
+      "tags": [
+        "analytics",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel.",
+      "created_at": 1784235431
+    },
+    {
+      "slug": "t-systems-werkstudent:in-data-science-210",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "T-Systems",
+      "location": "Cologne, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/210",
+      "tags": [
+        "ds/ml",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn.",
+      "created_at": 1784926631
+    },
+    {
+      "slug": "siemens-healthineers-werkstudent-data-analytics-(m/w/d)-211",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "Siemens Healthineers",
+      "location": "Cologne, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/211",
+      "tags": [
+        "analytics",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau.",
+      "created_at": 1783112231
+    },
+    {
+      "slug": "1&1-data-analyst-(werkstudent)-212",
+      "title": "Data Analyst (Werkstudent)",
+      "company_name": "1&1",
+      "location": "Frankfurt, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/212",
+      "tags": [
+        "analytics",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Sehr gute Deutschkenntnisse erforderlich (mind. C1).",
+      "created_at": 1782507431
+    },
+    {
+      "slug": "delivery-hero-data-analyst-(werkstudent)-213",
+      "title": "Data Analyst (Werkstudent)",
+      "company_name": "Delivery Hero",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/213",
+      "tags": [
+        "analytics",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Our working language is English \u2014 no German required. Verg\u00fctung: \u20ac22/Stunde",
+      "created_at": 1785013031
+    },
+    {
+      "slug": "celonis-software-engineering-intern---data-platf-214",
+      "title": "Software Engineering Intern - Data Platform",
+      "company_name": "Celonis",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/214",
+      "tags": [
+        "software eng",
+        "berlin"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our Software Eng team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, Kafka, Docker.",
+      "created_at": 1784667431
+    },
+    {
+      "slug": "siemens-healthineers-werkstudent-business-intelligence-215",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "Siemens Healthineers",
+      "location": "Cologne, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/215",
+      "tags": [
+        "analytics",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt. Verhandlungssicheres Deutsch in Wort und Schrift.",
+      "created_at": 1785531431
+    },
+    {
+      "slug": "celonis-werkstudent-ai-engineering-intern-216",
+      "title": "Werkstudent AI Engineering Intern",
+      "company_name": "Celonis",
+      "location": "Hamburg, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/216",
+      "tags": [
+        "ai",
+        "hamburg"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, RAG, LangChain.",
+      "created_at": 1784753831
+    },
+    {
+      "slug": "zalando-werkstudent-data-analytics-(m/w/d)-217",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "Zalando",
+      "location": "Cologne, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/217",
+      "tags": [
+        "analytics",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau.",
+      "created_at": 1783198631
+    },
+    {
+      "slug": "ionos-werkstudent-working-student---machine-le-218",
+      "title": "Werkstudent Working Student - Machine Learning",
+      "company_name": "IONOS",
+      "location": "Dresden, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/218",
+      "tags": [
+        "ds/ml",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps. Verhandlungssicheres Deutsch in Wort und Schrift.",
+      "created_at": 1784321831
+    },
+    {
+      "slug": "mercedes-benz-tech-werkstudent-data-analytics-(m/w/d)-219",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "Mercedes-Benz Tech",
+      "location": "Hamburg, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/219",
+      "tags": [
+        "analytics",
+        "hamburg"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau. Wir bieten 60k\u201383k EUR p.a.",
+      "created_at": 1783976231
+    },
+    {
+      "slug": "continental-ai-engineering-intern-220",
+      "title": "AI Engineering Intern",
+      "company_name": "Continental",
+      "location": "Munich, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/220",
+      "tags": [
+        "ai",
+        "munich"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our AI team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, RAG, LangChain. Our working language is English \u2014 no German required. \u20ac22 per hour",
+      "created_at": 1783889831
+    },
+    {
+      "slug": "t-systems-werkstudent-genai-/-llm-engineering-221",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "T-Systems",
+      "location": "Cologne, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/221",
+      "tags": [
+        "ai",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch. Our working language is English \u2014 no German required.",
+      "created_at": 1783198631
+    },
+    {
+      "slug": "otto-group-working-student---machine-learning-222",
+      "title": "Working Student - Machine Learning",
+      "company_name": "Otto Group",
+      "location": "Cologne, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/222",
+      "tags": [
+        "ds/ml",
+        "cologne"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our DS/ML team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps.",
+      "created_at": 1785099431
+    },
+    {
+      "slug": "deutsche-bahn-digital-werkstudent-business-intelligence-223",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "Deutsche Bahn Digital",
+      "location": "Cologne, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/223",
+      "tags": [
+        "analytics",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt. This is an English-speaking role.",
+      "created_at": 1782421031
+    },
+    {
+      "slug": "1&1-ai-engineering-intern-224",
+      "title": "AI Engineering Intern",
+      "company_name": "1&1",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/224",
+      "tags": [
+        "ai",
+        "leipzig"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our AI team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, RAG, LangChain.",
+      "created_at": 1784408231
+    },
+    {
+      "slug": "flink-software-engineering-intern---data-platf-225",
+      "title": "Software Engineering Intern - Data Platform",
+      "company_name": "Flink",
+      "location": "Munich, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/225",
+      "tags": [
+        "software eng",
+        "munich"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our Software Eng team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, Kafka, Docker. Wir bieten 67k\u201383k EUR p.a.",
+      "created_at": 1782766631
+    },
+    {
+      "slug": "mercedes-benz-tech-working-student---machine-learning-226",
+      "title": "Working Student - Machine Learning",
+      "company_name": "Mercedes-Benz Tech",
+      "location": "Hamburg, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/226",
+      "tags": [
+        "ds/ml",
+        "hamburg"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our DS/ML team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps. English is sufficient; German is a nice-to-have.",
+      "created_at": 1785272231
+    },
+    {
+      "slug": "flink-werkstudent-data-analytics-(m/w/d)-227",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "Flink",
+      "location": "Dresden, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/227",
+      "tags": [
+        "analytics",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau. English is sufficient; German is a nice-to-have.",
+      "created_at": 1784062631
+    },
+    {
+      "slug": "sap-ai-engineering-intern-228",
+      "title": "AI Engineering Intern",
+      "company_name": "SAP",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/228",
+      "tags": [
+        "ai",
+        "berlin"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our AI team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, RAG, LangChain. Our working language is English \u2014 no German required.",
+      "created_at": 1785358631
+    },
+    {
+      "slug": "getyourguide-werkstudent:in-data-science-229",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "GetYourGuide",
+      "location": "Berlin, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/229",
+      "tags": [
+        "ds/ml",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn.",
+      "created_at": 1783457831
+    },
+    {
+      "slug": "flink-ai-engineering-intern-230",
+      "title": "AI Engineering Intern",
+      "company_name": "Flink",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/230",
+      "tags": [
+        "ai",
+        "leipzig"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our AI team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, RAG, LangChain. English is sufficient; German is a nice-to-have.",
+      "created_at": 1782766631
+    },
+    {
+      "slug": "allianz-analytics-engineer-(junior)-231",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "Allianz",
+      "location": "Hamburg, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/231",
+      "tags": [
+        "data eng",
+        "hamburg"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery. Our working language is English \u2014 no German required.",
+      "created_at": 1784494631
+    },
+    {
+      "slug": "siemens-healthineers-werkstudent-data-analytics-(m/w/d)-232",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "Siemens Healthineers",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/232",
+      "tags": [
+        "analytics",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau. This is an English-speaking role.",
+      "created_at": 1784408231
+    },
+    {
+      "slug": "personio-werkstudent-business-intelligence-233",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "Personio",
+      "location": "Dresden, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/233",
+      "tags": [
+        "analytics",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt. Our working language is English \u2014 no German required. Gehalt: \u20ac36.000\u201353.000 pro Jahr",
+      "created_at": 1785358631
+    },
+    {
+      "slug": "delivery-hero-werkstudent-genai-/-llm-engineering-234",
+      "title": "Werkstudent GenAI / LLM Engineering",
+      "company_name": "Delivery Hero",
+      "location": "Munich, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/234",
+      "tags": [
+        "ai",
+        "munich"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our AI team in Munich.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, HuggingFace, PyTorch. Verg\u00fctung: \u20ac22/Stunde",
+      "created_at": 1782766631
+    },
+    {
+      "slug": "personio-werkstudent-data-analytics-(m/w/d)-235",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "Personio",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/235",
+      "tags": [
+        "analytics",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau.",
+      "created_at": 1783976231
+    },
+    {
+      "slug": "siemens-healthineers-data-analyst-(werkstudent)-236",
+      "title": "Data Analyst (Werkstudent)",
+      "company_name": "Siemens Healthineers",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/236",
+      "tags": [
+        "analytics",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. This is an English-speaking role.",
+      "created_at": 1785445031
+    },
+    {
+      "slug": "continental-analytics-engineer-(junior)-237",
+      "title": "Analytics Engineer (Junior)",
+      "company_name": "Continental",
+      "location": "Hamburg, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/237",
+      "tags": [
+        "data eng",
+        "hamburg"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our Data Eng team in Hamburg.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes dbt, SQL, BigQuery.",
+      "created_at": 1783630631
+    },
+    {
+      "slug": "about-you-werkstudent-bi-&-reporting-238",
+      "title": "Werkstudent BI & Reporting",
+      "company_name": "About You",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/238",
+      "tags": [
+        "analytics",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Power BI, Excel. Deutsch auf Muttersprachenniveau. 28 EUR pro Stunde",
+      "created_at": 1784926631
+    },
+    {
+      "slug": "1&1-werkstudent-data-analytics-(m/w/d)-239",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "1&1",
+      "location": "Dresden, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/239",
+      "tags": [
+        "analytics",
+        "dresden"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Dresden.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau. This is an English-speaking role. Verg\u00fctung: \u20ac25/Stunde",
+      "created_at": 1783285031
+    },
+    {
+      "slug": "1&1-werkstudent:in-data-science-240",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "1&1",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/240",
+      "tags": [
+        "ds/ml",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn. Sehr gute Deutschkenntnisse erforderlich (mind. C1).",
+      "created_at": 1784667431
+    },
+    {
+      "slug": "wayfair-data-scientist-(m/w/d)---werkstudent-241",
+      "title": "Data Scientist (m/w/d) - Werkstudent",
+      "company_name": "Wayfair",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/241",
+      "tags": [
+        "ds/ml",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, XGBoost, SQL. Gehalt: \u20ac42.000\u201367.000 pro Jahr",
+      "created_at": 1782421031
+    },
+    {
+      "slug": "hellofresh-ai-engineering-intern-242",
+      "title": "AI Engineering Intern",
+      "company_name": "HelloFresh",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/242",
+      "tags": [
+        "ai",
+        "frankfurt"
+      ],
+      "job_types": [
+        "intern"
+      ],
+      "description": "Join our AI team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, LLM, RAG, LangChain. English is sufficient; German is a nice-to-have.",
+      "created_at": 1784062631
+    },
+    {
+      "slug": "ionos-werkstudent-business-intelligence-243",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "IONOS",
+      "location": "Cologne, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/243",
+      "tags": [
+        "analytics",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt.",
+      "created_at": 1783976231
+    },
+    {
+      "slug": "mercedes-benz-tech-werkstudent-business-intelligence-244",
+      "title": "Werkstudent Business Intelligence",
+      "company_name": "Mercedes-Benz Tech",
+      "location": "Frankfurt, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/244",
+      "tags": [
+        "analytics",
+        "frankfurt"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Frankfurt.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes SQL, Looker, dbt. Verhandlungssicheres Deutsch in Wort und Schrift. 24 EUR pro Stunde",
+      "created_at": 1783457831
+    },
+    {
+      "slug": "wayfair-working-student---machine-learning-245",
+      "title": "Working Student - Machine Learning",
+      "company_name": "Wayfair",
+      "location": "Cologne, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/245",
+      "tags": [
+        "ds/ml",
+        "cologne"
+      ],
+      "job_types": [
+        "full-time"
+      ],
+      "description": "Join our DS/ML team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, PyTorch, MLOps.",
+      "created_at": 1783889831
+    },
+    {
+      "slug": "bosch-data-scientist-(m/w/d)---werkstudent-246",
+      "title": "Data Scientist (m/w/d) - Werkstudent",
+      "company_name": "Bosch",
+      "location": "Cologne, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/246",
+      "tags": [
+        "ds/ml",
+        "cologne"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Cologne.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, XGBoost, SQL. This is an English-speaking role. Wir bieten 66k\u201381k EUR p.a.",
+      "created_at": 1785445031
+    },
+    {
+      "slug": "continental-werkstudent:in-data-science-247",
+      "title": "Werkstudent:in Data Science",
+      "company_name": "Continental",
+      "location": "Berlin, Germany",
+      "remote": true,
+      "url": "https://arbeitnow.example/247",
+      "tags": [
+        "ds/ml",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our DS/ML team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Pandas, scikit-learn. Verhandlungssicheres Deutsch in Wort und Schrift. 18 EUR pro Stunde",
+      "created_at": 1783198631
+    },
+    {
+      "slug": "deutsche-bahn-digital-werkstudent-data-analytics-(m/w/d)-248",
+      "title": "Werkstudent Data Analytics (m/w/d)",
+      "company_name": "Deutsche Bahn Digital",
+      "location": "Leipzig, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/248",
+      "tags": [
+        "analytics",
+        "leipzig"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Analytics team in Leipzig.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, SQL, Excel, Tableau.",
+      "created_at": 1785617831
+    },
+    {
+      "slug": "1&1-werkstudent-software-engineering-intern--249",
+      "title": "Werkstudent Software Engineering Intern - Data Platform",
+      "company_name": "1&1",
+      "location": "Berlin, Germany",
+      "remote": false,
+      "url": "https://arbeitnow.example/249",
+      "tags": [
+        "software eng",
+        "berlin"
+      ],
+      "job_types": [
+        "werkstudent"
+      ],
+      "description": "Join our Software Eng team in Berlin.  You'll work on production data pipelines, dashboards for stakeholders, and experiments that shape product decisions.  Our stack includes Python, Kafka, Docker. English is sufficient; German is a nice-to-have.",
+      "created_at": 1785617831
+    }
+  ]
+}
