@@ -250,7 +250,9 @@ with tabs[4]:
     if bundle is None:
         st.warning(
             "No model trained yet. Run `make train` after ingest/transform. "
-            "Model needs ≥ 30 postings with reported salary."
+            "Training needs at least 5 salaried postings per model feature "
+            "(skills + city + role + seniority + language dummies), 30 rows minimum — "
+            "check the training log for the exact row count required."
         )
     else:
         cA, cB = st.columns([1, 1])
@@ -260,7 +262,7 @@ with tabs[4]:
             st.write({
                 "MAE (log-EUR)": round(m.get("mae_log", float("nan")), 3),
                 "R²":            round(m.get("r2", float("nan")), 3),
-                "Folds":         m.get("n_folds", m.get("n_train")),
+                "Folds":         m.get("n_folds", m.get("n_repeats")),
             })
             st.caption(
                 "MAE is on log-transformed salary — 0.20 ≈ ±22% relative error. "
