@@ -32,13 +32,29 @@ import numpy as np
 import pandas as pd
 import shap
 from sklearn.metrics import mean_absolute_error, r2_score
-from sklearn.model_selection import GroupKFold
+from sklearn.model_selection import GroupKFold, RepeatedKFold
 from xgboost import XGBRegressor
 
 logger = logging.getLogger(__name__)
 
 TOP_N_CITIES = 12
-MIN_TRAINING_ROWS = 30  # below this we won't publish predictions
+MIN_TRAINING_ROWS = 30  # absolute floor, regardless of feature count
+MIN_SKILL_FREQ = 8  # skill must appear in at least this many postings to get its own feature
+TOP_K_SKILLS = 20  # hard cap on skill features, on top of the frequency filter
+MIN_GROUPS_FOR_GROUP_KFOLD = 3  # below this, grouped CV splits are too degenerate to trust
+MIN_ROWS_PER_FEATURE = 5  # training floor scales with feature count, not a fixed constant
+
+XGB_PARAMS: dict[str, Any] = dict(
+    n_estimators=150,
+    max_depth=3,
+    min_child_weight=5,
+    learning_rate=0.05,
+    subsample=0.8,
+    colsample_bytree=0.8,
+    reg_alpha=1.0,
+    reg_lambda=2.0,
+    random_state=42,
+)
 
 
 @dataclass
@@ -135,39 +151,40 @@ def _build_feature_matrix(
 
 def _cv_metrics(X: np.ndarray, y: np.ndarray, groups: np.ndarray) -> dict[str, float]:
     n_groups = len(np.unique(groups))
-    n_splits = min(5, max(2, n_groups))
-    if n_groups < 2:
-        # fallback: 80/20 split, no CV possible
-        cut = int(len(X) * 0.8)
-        m = XGBRegressor(
-            n_estimators=300, max_depth=4, learning_rate=0.05,
-            subsample=0.8, colsample_bytree=0.8, random_state=42,
-        )
-        m.fit(X[:cut], y[:cut])
-        pred = m.predict(X[cut:])
-        return {
-            "mae_log": float(mean_absolute_error(y[cut:], pred)),
-            "r2": float(r2_score(y[cut:], pred)) if len(pred) > 1 else float("nan"),
-            "n_train": int(cut),
-            "n_test": int(len(X) - cut),
-        }
 
-    gkf = GroupKFold(n_splits=n_splits)
+    if n_groups >= MIN_GROUPS_FOR_GROUP_KFOLD:
+        n_splits = min(5, n_groups)
+        splitter = GroupKFold(n_splits=n_splits)
+        split_iter = splitter.split(X, y, groups)
+        fold_label = "n_folds"
+        fold_count = n_splits
+    else:
+        # Too few distinct snapshot weeks for grouped CV to mean anything (often
+        # just 1-2 groups on effectively single-snapshot data). Repeated shuffled
+        # KFold gives a stable estimate instead of one arbitrary, unshuffled split.
+        n_splits = 5
+        n_repeats = 5
+        splitter = RepeatedKFold(n_splits=n_splits, n_repeats=n_repeats, random_state=42)
+        split_iter = splitter.split(X, y)
+        fold_label = "n_repeats"
+        fold_count = n_repeats
+
     maes, r2s = [], []
-    for train_idx, test_idx in gkf.split(X, y, groups):
-        m = XGBRegressor(
-            n_estimators=300, max_depth=4, learning_rate=0.05,
-            subsample=0.8, colsample_bytree=0.8, random_state=42,
-        )
+    n_splits_run = 0
+    for train_idx, test_idx in split_iter:
+        m = XGBRegressor(**XGB_PARAMS)
         m.fit(X[train_idx], y[train_idx])
         pred = m.predict(X[test_idx])
         maes.append(mean_absolute_error(y[test_idx], pred))
         if len(pred) > 1:
             r2s.append(r2_score(y[test_idx], pred))
+        n_splits_run += 1
+
     return {
         "mae_log": float(np.mean(maes)),
         "r2": float(np.mean(r2s)) if r2s else float("nan"),
-        "n_folds": n_splits,
+        fold_label: fold_count,
+        "n_splits": n_splits_run,
     }
 
 
@@ -176,26 +193,34 @@ def train(db_path: str, out_path: str) -> ModelBundle | None:
     df = _load_training_frame(con)
     con.close()
 
-    if len(df) < MIN_TRAINING_ROWS:
-        logger.warning(
-            "only %d rows with salary; need >= %d. Skipping model training.",
-            len(df), MIN_TRAINING_ROWS,
-        )
-        return None
-
     # top cities by frequency
     top_cities = df["city"].value_counts().head(TOP_N_CITIES).index.tolist()
 
-    # skill vocabulary = anything appearing in >= 3 postings
+    # skill vocabulary = anything appearing in >= MIN_SKILL_FREQ postings,
+    # capped to the TOP_K_SKILLS most frequent so feature count stays well
+    # below row count even on small datasets
     from collections import Counter
     ctr: Counter[str] = Counter()
     for sks in df["skills"]:
         ctr.update(sks)
-    all_skills = sorted([s for s, c in ctr.items() if c >= 3])
+    all_skills = sorted(
+        [s for s, _ in ctr.most_common(TOP_K_SKILLS) if ctr[s] >= MIN_SKILL_FREQ]
+    )
     if not all_skills:
         all_skills = sorted({s for sks in df["skills"] for s in sks})
 
     X_df = _build_feature_matrix(df, top_cities, all_skills)
+    n_features = X_df.shape[1]
+    min_training_rows = max(MIN_TRAINING_ROWS, n_features * MIN_ROWS_PER_FEATURE)
+
+    if len(df) < min_training_rows:
+        logger.warning(
+            "only %d rows with salary against %d features; need >= %d "
+            "(%d rows/feature). Skipping model training.",
+            len(df), n_features, min_training_rows, MIN_ROWS_PER_FEATURE,
+        )
+        return None
+
     y = np.log(df["salary"].values.astype(float))
 
     # time-series-ish grouping: bucket by snapshot week to keep repostings together
@@ -204,10 +229,7 @@ def train(db_path: str, out_path: str) -> ModelBundle | None:
     metrics = _cv_metrics(X_df.values, y, groups)
 
     # refit on all data for the persisted model
-    final = XGBRegressor(
-        n_estimators=400, max_depth=4, learning_rate=0.05,
-        subsample=0.8, colsample_bytree=0.8, random_state=42,
-    )
+    final = XGBRegressor(**XGB_PARAMS)
     final.fit(X_df.values, y)
 
     # SHAP global importance (mean |shap|)
